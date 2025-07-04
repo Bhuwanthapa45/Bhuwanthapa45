@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhuwanesh thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuwanesh thapa" height="30" width="40" /></a>
-<a href="https://x.com/bhuwanthapa45" target="blank">X></a>
+<a href="https://x.com/bhuwanthapa45" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="bhuwanesh thapa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
