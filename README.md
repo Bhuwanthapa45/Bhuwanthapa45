@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuwan Thapa</h1>
 <h3 align="center">A passionate Computer Science Engineering Undergraduate.</h3>
 
-- 🌱 I’m currently learning **LANGCHAIN RAG, DevOps and Cloud**
+- 🌱  **MERN Stack, Next Js, Gen AI, Agentic AI, LANGCHAIN RAG, DevOps and Cloud**
 
 - 💬 Ask me about **React, Node Js,**
 
