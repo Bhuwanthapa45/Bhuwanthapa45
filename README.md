@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bhuwan Thapa</h1>
+<h1 align="center">Hi , I'm Bhuwan Thapa</h1>
 <h3 align="center">
-🚀 Computer Science Engineer | MERN Stack Developer | AI & RAG Enthusiast | Co-Founder @ Skironix
+Computer Science Engineer | MERN Stack Developer | AI & RAG Enthusiast | Co-Founder @ Skironix
 </h3>
 
 <p align="center">
@@ -9,17 +9,17 @@ Passionate about building scalable web applications, AI-powered platforms, and r
 
 ---
 
-### 🔥 About Me
+### About Me
 - 💻 Computer Science Engineering Undergraduate  
-- 🚀 Co-Founder of <b>Skironix</b> (Building AI-powered solutions)  
-- 🌱 Currently learning **Generative AI, LangChain, RAG Systems, and Next.js**  
-- 🛠️ Specialized in **Full Stack Development (MERN + Next.js)**  
-- 💬 Ask me about **React, Node.js, APIs, and AI Integration**  
-- 📫 Reach me at: **mailme.bhuwanthapa@gmail.com**
+-  Co-Founder of <b>Skironix</b> (Building AI-powered solutions)  
+- Currently learning **Generative AI, LangChain, RAG Systems, and Next.js**  
+- Specialized in **Full Stack Development (MERN + Next.js), Springboot**  
+- Ask me about **React, Node.js, APIs, and AI Integration**  
+- Reach me at: **mailme.bhuwanthapa@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/bhuwanesh thapa" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile Bhuwan Thapa" height="30" width="40"/>
@@ -33,7 +33,7 @@ Passionate about building scalable web applications, AI-powered platforms, and r
 
 ### 🛠️ Tech Stack & Tools
 
-#### 👨‍💻 Programming & Web Development
+#### Programming & Web Development
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Developer" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Developer" width="40"/>
@@ -44,7 +44,7 @@ Passionate about building scalable web applications, AI-powered platforms, and r
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Database" width="40"/>
 </p>
 
-#### 🎨 Frontend & UI/UX
+#### Frontend & UI/UX
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Developer" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Developer" width="40"/>
@@ -53,7 +53,7 @@ Passionate about building scalable web applications, AI-powered platforms, and r
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma UI Design" width="40"/>
 </p>
 
-#### ⚙️ DevOps & Tools
+#### DevOps & Tools
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker DevOps" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Server" width="40"/>
@@ -62,7 +62,7 @@ Passionate about building scalable web applications, AI-powered platforms, and r
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" width="40"/>
 </p>
 
-#### ☁️ Cloud & Backend Services
+#### Cloud & Backend Services
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Cloud Developer" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Backend" width="40"/>
@@ -71,7 +71,7 @@ Passionate about building scalable web applications, AI-powered platforms, and r
 
 ---
 
-### 🚀 Focus Areas (SEO Keywords Boost)
+### Focus Areas
 - Full Stack Web Development (MERN Stack, Next.js)
 - AI Applications & Generative AI
 - Retrieval-Augmented Generation (RAG)
